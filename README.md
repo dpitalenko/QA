@@ -1,3 +1,3 @@
 # QA
-#1. Git
-#2. Test case
+1. Git /n
+2. Test case
