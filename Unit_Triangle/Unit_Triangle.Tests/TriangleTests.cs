@@ -11,7 +11,7 @@ namespace Unit_Triangle.Tests
         public void inequality_3and4and5_true()
         {
             //arrange
-            int a = 3;
+            int a = -3;
             int b = 4;
             int c = 5;
             bool expected = true;
